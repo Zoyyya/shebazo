@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align:center;
+}
+
+#z1{
+    text-align: center;
+    width: 250px;
+    height:300px;
+    margin-bottom: 50px;
+    margin-top:100px;
+    border-radius:50px;
+    margin-left:700px;
+   
+    
+}
+
+#welcome {
+    
+    height: 800px;
+    color:brown;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    background: linear-gradient(lightblue 0%, pink 100%);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    
+
+}
+
+
+
+h1 {
+
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Sansita Swashed', cursive;
+   
+}
+
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: monospace
+}
+
+#bio {
+
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+p {
+    max-width: 450px;
+    margin:25px auto;
+    font-size: 25px;
+    
+}
+div {
+	  margin-top: 15px;
+     text-align: center;
+	  background-color: #f0e8c5;
+	}
+
+	.image-section {
+        display:flex;
+	 
+	  justify-content: center;
+	}
+
+	.section-style {
+         border-style:ridge;
+	  margin-right: 25px;
+	  margin-left: 25px;
+	  background-color: white;
+	}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 50%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+.movie_text h5
+{
+    font-size:20px;
+    
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color :darkred;
+    font-size: 20px;
+}
+
+
